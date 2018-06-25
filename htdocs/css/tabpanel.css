@@ -1,0 +1,73 @@
+.container {width: 602px; margin: 0px auto;}
+ul.tabs {
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style: none;
+	height: 246px;
+	border-bottom: 1px solid #d6d6d6;
+	border-left: 1px solid #d6d6d6;
+	width: 100%;
+	list-style-image:none !important;
+
+}
+ul.tabs li {
+	width:300px;
+	text-align:center;
+	float: left;
+	margin: 0;
+	padding: 0;
+	color:#000000; line-height:15px;
+	height: 245px;
+	border: 1px solid #d6d6d6;
+	border-left: none;
+	margin-bottom: -1px;
+	overflow: hidden;
+	position: relative;
+	list-style-image:none !important;
+	background:#f4f4f4 url("../images/plus.png") no-repeat 245px 220px;
+	font-weight:bold !important;
+}
+ul.tabs li img{ padding-top:10px;}
+ul.tabs li:hover {
+	background:#fff url("../images/plus.png") no-repeat 245px 220px;
+}
+ul.tabs li a {
+	text-decoration: none;
+	height:248px;
+	color:#000000;
+	display: block;
+	padding: 8px 0px 0px 0px;
+	outline: none;
+}
+
+html ul.tabs li.active  {
+	border-bottom: 1px solid #fff;
+	background:#fff;
+	/*background:#fff url("../images/minus.png") no-repeat 245px 220px;*/
+}
+html ul.tabs li.active:hover  {
+	border-bottom: 1px solid #fff;
+	background:#fff;
+	/*background:#fff url("../images/minus.png") no-repeat 245px 220px;*/
+}
+.tab_container {
+	border: 1px solid #d6d6d6;
+	border-top: none;
+	clear: both;
+	float: left;
+	width: 100%;
+	background-color:#fff;
+
+}
+.tab_content {
+	padding: 20px;
+}
+.tab_content a{color:#a12225; text-decoration:none;}
+.tab_content a:hover{color:#e70002; text-decoration: underline;}
+/*.tab_content img {
+	float: left;
+	margin: 0 20px 20px 0;
+	border: 1px solid #ddd;
+	padding: 5px;
+}*/

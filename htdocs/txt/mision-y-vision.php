@@ -1,0 +1,22 @@
+<h1>Misión y visión</h1>
+ 
+<p class="pageHighlight">
+PMC  está dedicada a hacer a sus clientes más competitivos, suministrando servicios de manufactura flexibles e integrales.
+
+
+</p>
+<img src="images/mision200x150.jpg" alt="Procesos Metálicos" class="leftimage" width="200" height="150">
+
+<p><strong>NUESTRA MISIÓN</strong><br>
+PMC  está dedicada a hacer a sus clientes más competitivos, suministrando servicios de manufactura flexibles e integrales.
+</p>
+
+<p>Como contratista de servicios, facilitamos que las empresas de EUA fabriquen en México, mediante el manejo del proceso completo de valor agregado.</p>
+
+<p><br />
+<strong>NUESTRA VISIÓN:</strong> <br>
+Ser una empresa líder en Baja California especializada en soluciones integrales de manufactura en la industria metalmecánica.
+</p>
+
+        <p>&nbsp; </p>
+

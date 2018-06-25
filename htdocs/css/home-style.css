@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.bannerPAnel{background:#e3e3e3; height:390px; }
+
+
+#flash-image { width: 900px; height:390px!important; z-index: 1; margin:0 auto; /*background: url("../home-images/globe.jpg") no-repeat 0 0;*/ /*background: url("../home-images/008.jpg") no-repeat 0 0;*/ overflow:hidden; }
+.bannerAccordianHolder{ width:1000px;}
+.bannerAccordian{}
+.bannerAccordian > li{ float:left; width:225px; height:390px; border-right:1px solid #FFF; position:relative; overflow:hidden;}
+.bannerAccordian > li div.bannerSec{ background:url("../images/overlay.png") repeat; position:absolute; width:100%; left:0; bottom:0; text-align:right;}
+.bannerAccordian > li div.bannerSec h2{ color:#FFF; font:normal 13px Verdana, Geneva, sans-serif; text-align:right; padding:15px 15px 15px 25px; background:url("../images/arrow-new.gif") no-repeat 0 21px; display:inline-block;}
+.bannerAccordian > li div.bannerSec div.bannerSec2{ padding:0 15px 15px; text-align:right; }
+.bannerAccordian > li div.bannerSec div.bannerSec2 img{ margin:0 0px 15px; border:1px solid #FFF;}
+.bannerAccordian > li div.bannerSec div.bannerSec2 p{ color:#FFF; font:normal 13px Arial, Helvetica, sans-serif; padding-bottom:10px;}
+.bannerAccordian > li div.bannerSec div.bannerSec2 a{ display:inline-block; background:url("../images/arrow.png") no-repeat 97% 7px; padding:3px 15px 3px 7px; color:#FFF; font:normal 12px/18px Arial, Helvetica, sans-serif;}
+.bannerAccordian > li div.bannerSec div.bannerSec2 a:hover{ background:#000 url("../images/arrow.png") no-repeat 97% 7px;}
+
+
+.homeContPanel{ height:170px; width: 100%; background: #fff;}
+.textoHome{
+	width: 900px; margin: auto;
+	padding-top: 15px;
+	text-align: justify;
+}
+
+.textoHome ol {
+	list-style-type: none;
+	margin-left:50px;
+	color: #CDC4D2;
+	font-size: 10px;
+}
+
+.textoHome ol  li:before {
+    content: "•";
+    padding-right: 10px;
+    color: #3379C1;
+}
+
+.titHome{
+	color: #7F7B7E;
+	font-size: 14px;
+}
+
+.subTitHome{
+	color: #3379C1;
+	font-size: 14px;
+}
+.txtHome{
+	color: #B1ACB0;
+font-size: 10px;
+}
+
+.listaHome{
+	border-left: 2px solid #CDC4D2;
+}
+
+.column1{ float:left; width:224px; margin:35px 0 0 0;}
+
+.whatsNew{ background:url("../home-images/whatsNewBg.png") no-repeat 0 0; width:201px; height:130px; margin-bottom:10px; position:relative;}
+.whatsNew h3{ font-size:14px; color:#FFF; font-weight:400; position:absolute; top:5px; right:10px;}
+.viewAll{ background:url("../home-images/arrow.png") no-repeat 100% 4px; padding-right:14px; display:inline-block; color:#787878; font-size:10px; font-weight:400;}
+.viewAll:hover{ color:#282828;}
+
+#slides { overflow:hidden; position:relative; width:200px; height:100px; padding-top:25px;}
+#slides ul { position:relative; left:0; top:0; list-style:none; margin:0; padding:0; width:1050px; height:150px;}
+#slides li { width:170px; height:120px; float:left; padding:15px;}
+#slides li a{ color:#FFF; font:normal 11px/13px Arial, Calibri}
+.buttons{ position:absolute; right:0px; bottom:-30px;}
+.buttons a{ text-indent:-9999px; display:inline-block; width:10px; height:14px; background:url("../home-images/sliderControl.png") no-repeat 0 0; margin-left:10px;}
+.buttons a#prev{ background:url("../home-images/sliderControl.png") no-repeat 0 0;}
+.buttons a#next{ background:url("../home-images/sliderControl.png") no-repeat 100% 0;}
+
+
+.column2{ float:left; width:405px; margin:35px 0 0 25px;}
+.annualReport{ float:left; width:48%; margin-bottom:15px;}
+.annualReport img{float:left; margin-right:10px;}
+.annualReport strong{ display:block; margin-bottom:15px; color:#0083cb; font-size:24px; font-weight:400; line-height:20px;}
+.annualReport sup{ font-size:14px;}
+.annualReport span{ display:block; color:#757575; font-size:12px;}
+.btn{ display:inline-block; background:url("../home-images/btnBg.png") no-repeat 0 0; line-height:17px; color:#FFF; font-size:9px; text-transform:uppercase; padding:0 5px 0 20px; margin-bottom:5px;}
+.btn:hover{ color:#000;}
+.pdfBtn{ display:inline-block; background:url("../home-images/pdfBtnBg.png") no-repeat 0 0; line-height:17px; color:#FFF; font-size:9px; text-transform:uppercase; padding:0 5px 0 20px;}
+.pdfBtn:hover{ color:#000;}
+.financialResults{ float:right; width:50%; margin-bottom:15px;}
+.financialResults h3{color:#757575; font-size:14px; font-weight:400; margin-bottom:10px;}
+.financialResults h3 span{ display:block; color:#0083cb; font-size:12px;}
+.financialResults ul{}
+.financialResults ul li{ background:url("../home-images/bullet.gif") no-repeat 0 4px; padding-left:14px; color:#525252; font-size:11px; font-weight:400; margin-bottom:3px;}
+.financialResults ul li a{ color:#525252;}
+.financialResults ul li a:hover{ color:#282828;}
+
+.marketTracker{ border-top:1px solid #f2f2f2; clear:both; padding-top:15px; color:#525252; font-size:11px; font-weight:400;}
+
+
+.column3{ float:right; width:224px; height:180px; margin:35px 0 0 0; background:url("../home-images/globe.png") no-repeat 15px 0;}
+.column3 ul{ margin-left:62px;}
+.column3 ul li{ background:url("../home-images/icon.png") no-repeat; height:32px; padding-left:28px;}
+.column3 ul li.io{ background-position:0 0;}
+.column3 ul li.eo{ background-position:0 -42px;}
+.column3 ul li.to{ background-position:0 -85px;}
+.column3 ul li.so{ background-position:0 -128px;}
+.column3 ul li a{ display:block; border-bottom:1px solid #f2f2f2; height:31px; color:#949494; font-size:11px; font-weight:400; line-height:31px;}
+.column3 ul li a:hover{ color:#555;}
+.column3 ul li div{ position:relative; margin:-5px 0 0 10px; }
+.column3 ul li div a{ display:block; border-bottom:0px solid #f2f2f2; height:17px; color:#949494; font-size:11px; font-weight:400; line-height:17px;}
