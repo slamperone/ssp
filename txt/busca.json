@@ -13,9 +13,7 @@
   {"seccion": "Sistema De Aplicacion Manual", "liga": "pintura.php?seccion=sistema-de-aplicacion-manual"},
   {"seccion": "Laboratorio De Calidad Y Sistemas De Control", "liga": "calidad.php?seccion=laboratorio-de-calidad-y-sistemas-de-control"},
   {"seccion": "Medición Y Puntos De Cóntrol En Procesos", "liga": "calidad.php?seccion=medicion-y-puntos-de-control-en-procesos"},
-  
   {"seccion": "Ingenieria Y Diseno De Herramienta Modular Tooling", "liga": "calidad.php?seccion=ingenieria-y-diseno-de-herramienta-modular-tooling"},
-   
   {"seccion": "Contacto", "liga": "contacto.php"},
 
   {"seccion": "About Us", "liga": "corporativa.php?seccion=acerca-de-nosotros&lang=eng"},

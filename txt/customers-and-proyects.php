@@ -5,12 +5,11 @@
 		<p class="pageHighlight">
 		Throughout our history we have had the opportunity to provide metal fab to companies in the public and private sectors.
 		</p>
-		<p>Projects we’ve very involved cover areas with the transport, medical and education sectors, among others.
+		<p>Projects we're very involved with include transportation and medical and educational sectors, among others. We have worked with innovative and successful companies in the market.
+
+
 		</p>
 		<br>
-		<p>
-We have worked with innovative and successful companies in the market. The focus of our service is aimed at helping our customers seize new opportunities,  manage their risks and create value.
-</p>
 		</td>
 		<td>
 			<p>

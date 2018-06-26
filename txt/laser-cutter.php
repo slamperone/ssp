@@ -3,8 +3,7 @@
 <p>&nbsp; </p>
 <p>
 <img src="images/cortado-laser-200x150.gif" alt="metalizado " class="rightimage" width="200" height="150">
-
-This process besides cutting sheet metal includes a rotary index with power and speed to efficiently cut materials of medium to heavy thickness.
+This process, besides cutting sheet metal, includes a rotary index using power and speed to efficiently cut materials of medium to heavy thickness.
 <br />
 <p>&nbsp;</p>
 <p>&nbsp;</p>

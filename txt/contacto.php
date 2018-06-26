@@ -1,5 +1,5 @@
  <?php if (isset($_GET['lang']) && $_GET['lang']=='eng'){
-echo 'To establish direct contact with our local sales representatives and get a budget please call:
+echo 'To establish direct contact with our local sales representatives and get a quote please call:
   </p>
   <p>United States: <strong>(619) 671-0720 </strong></p>
   <p>Mexico: +52 (664) 637-6704  </p>

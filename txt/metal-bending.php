@@ -4,16 +4,15 @@
       	<p>Press Brake: for bending sheet metals<br />
       	AMADA RGM2 5020<br />
       	Capacidad:<br />
-        Tonnage: from 50 tons - up to 90 tons <br>
-Maximum bending length: from  82" - up to 101"
-”<br />
+        Tonnage: 50 – 90 tons<br>
+        Maximum bending length: 82" - 101"<br />
       </p>
 
         <p>&nbsp; </p>
          <p>AMADA HS 8025<br />
         Capacity:<br />
-        Tonnage: up to 50 tons<br />
-        Maximum bending length: up to 82"<br />
+        Tonnage: up to 50 tons<br />
+        Maximum bending length: up to 82"<br />
       </p>
       <p>&nbsp; </p>
 
@@ -21,7 +20,6 @@ Maximum bending length: from  82" - up to 101"
  <p>&nbsp; </p>
       	<p ><img src="images/dobles_b.jpg" alt="doblado de metal " class="rightimage" width="200" height="150">
        NC tube bender accommodates 3" diameter tubes, has a NC control panel that allows precision and speed.
- 
 
 
       </p>

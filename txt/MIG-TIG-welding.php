@@ -1,10 +1,9 @@
 <h1>MIG – TIG Welding</h1>
       <p><img src="images/soldadura-200x150.gif" alt="soldado de metal " class="rightimage" width="200" height="150">
             <strong>    Automated and Manual.</strong> <br><br>
-      	
-Manual welding services MIG, TIG, and automated welding (MIG) are performed by our highly, trained and skilled workers, achieving the requirements and standards of all customers.<br><br>
- 
+Manual welding services, MIG, TIG, and automated welding are performed by our highly, trained and skilled workers, exceeding the requirements and standards of all customers.
 
+<br><br>
       </p>
         <p>&nbsp; </p>
         <p>

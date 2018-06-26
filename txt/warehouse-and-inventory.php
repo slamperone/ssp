@@ -5,12 +5,13 @@ Internal warehouse and zero inventories.
       <p>&nbsp; </p>
 
 <p>
-Our warehousing capabilities offers enough material availability to ensure of time delivered and shorter lead times, thus reducing our customers’ inventory.
+Our warehousing capabilities offer enough material availability to ensure delivery times and shorter lead times, thus reducing our customers’ inventory.
+
 </p>
 
 <p>
 
-We offer internal process planning for the product to be produced and delivered of time:
+We offer internal process planning for the product to be produced and delivered on time:
 </p>
 <img src="images/almacen200x150.jpg" alt="Proceos metálicos california" class="rightimage" width="200"/>
 <p>&nbsp; </p>

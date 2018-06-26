@@ -1,11 +1,14 @@
 <h1>Laboratory for quality control systems</h1>
 <p>
 <img src="images/calidad200x150.jpg" alt="metalizado " class="leftimage" width="200" height="150">
-Our laboratory uses a process of quality control, where thickness, hardness, impact, adhesion and chemical components are inspected on powder coated parts.
+Our laboratory uses a process of quality control where thickness, hardness, impact, adhesion, and chemical components are inspected on powder coated parts.
+
 </p>
 <p>&nbsp; </p>
 
-<p>The aim is to prevent any errors and assure the final product meets customer expectations.</p>
+<p>
+The aim is to prevent any errors and ensure that the final product meets customer expectations.
+</p>
 <p>&nbsp; </p>
 <p>&nbsp; </p>
 <p>&nbsp; </p>
